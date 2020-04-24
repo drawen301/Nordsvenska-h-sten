@@ -1,0 +1,70 @@
+body {
+  background-image: url("");
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #33343A;
+    background: #fff;
+}
+
+h1 {
+  font-size: 2.7em;
+  font-family: "Rambla", sans-serif;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 1.6em;
+  font-family: "Rambla", sans-serif;
+  font-style: italic;
+}
+
+
+#mainNav {
+  font-family: "Rambla", sans-serif;
+  color: black;
+  list-style-type: none !important;
+  width: 100%;
+  height: 83px;
+  background: rgba(42,86,206,.8);
+  opacity: 0.8;
+  font-size: 0.95em;
+  margin-top: 0.5rem;
+}
+
+.nav-item {
+  margin: 2rem;
+  list-style-type: none;
+  text-align: center;
+}
+
+#knapp {
+  background-color: #333399;
+}
+
+.footer {
+  height: 10em;
+  width: 100%;
+  background-color: #f5f5f5;
+  text-align: center;
+}
+.informationstext {
+  margin-top: 1em;
+}
+
+#medlem {
+
+}
+
+#kontakt {
+
+}
+
+#e-post {
+
+}
+
+.card {
+  width: 13rem;
+}
